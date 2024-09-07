@@ -1,8 +1,10 @@
 # Cosmic-Calculations
 Educational mathematics game for primary school children consisting of 2 stages: 
+
 **stage 1** : 
   - Answer as many mathematics questions(of varying difficulty) in 60 seconds
   - Each correct answer generates ammunition
+
 **stage 2**
   - With the ammunition generated from stage 1, shoot incoming meteors from a meter shower
   - Objective is to prevent meteros reaching the danger zone
